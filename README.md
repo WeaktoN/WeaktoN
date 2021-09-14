@@ -1,11 +1,11 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=WeaktoN&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ali-yasin-emir&show_icons=true">
 
 # Merhaba, ben Ali Yasin Emir!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=WeaktoN" alt="WeaktoN" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-yasin-emir" alt="ali-yasin-emir" /> </p>
 
 [![](https://img.shields.io/twitter/follow/weakton?style=social)](https://www.twitter.com/weakton)
-[![](https://img.shields.io/github/followers/WeaktoN?style=social)](https://www.github.com/WeaktoN)
+[![](https://img.shields.io/github/followers/ali-yasin-emir?style=social)](https://www.github.com/ali-yasin-emir)
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/aliyasinemir16)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/weakton)
